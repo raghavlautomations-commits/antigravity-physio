@@ -1,0 +1,5 @@
+{
+  "name": "Lifeline Health Care - Physiotherapy Clinic",
+  "description": "Professional physiotherapy clinic in Gurugram, Haryana. Expert care for recovery, wellness, and specialized treatments.",
+  "requestFramePermissions": ["geolocation"]
+}
